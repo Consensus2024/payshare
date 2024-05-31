@@ -1,0 +1,26 @@
+{
+  "name": "charity-donation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Consensus2024/payshare.git"
+  },
+  "keywords": [
+    "stellar",
+    "soroban",
+    "charity",
+    "donation",
+    "module"
+  ],
+  "author": "Hunter Sides",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Consensus2024/payshare/issues"
+  },
+  "homepage": "https://github.com/Consensus2024/payshare#readme",
+  "description": ""
+}
